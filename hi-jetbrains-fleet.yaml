@@ -8,3 +8,6 @@ channels:
 
 dependencies:
   - python=3.9
+
+  # for ASCII art
+  - pyfiglet

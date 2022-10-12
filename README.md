@@ -4,7 +4,7 @@ Small repository for demonstrating features in the public preview of JetBrains F
 
 ## How to run
 
-Basically all you need is Python3. I suggest Python 3.9 or higher. You can also install the conda environment `hi-jetbrains-fleet`.
+Basically all you need is Python3 and the `pyfiglet` package. I suggest Python 3.9 or higher. You can also install the conda environment `hi-jetbrains-fleet`.
 
 1. Install the conda environment via `conda env create -f hi-jetbrains-fleet.yaml`
 2. Activate the environment via `conda activate hi-jetbrains-fleet`
