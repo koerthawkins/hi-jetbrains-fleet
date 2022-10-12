@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "python",
+            "name": "main-configuration",
+            "pythonInterpreterPath": "$USER_HOME$/miniconda3/envs/hi-jetbrains-fleet/bin/python",
+            "arguments": ["main.py"],
+        },
+    ]
+}
