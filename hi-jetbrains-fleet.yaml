@@ -1,0 +1,10 @@
+name: hi-jetbrains-fleet 
+
+channels:
+  - defaults
+
+  # conda-forge is never wrong
+  - conda-forge
+
+dependencies:
+  - python=3.9
